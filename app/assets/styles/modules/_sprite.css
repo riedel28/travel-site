@@ -3,6 +3,10 @@
     background-image: url("/assets/images/sprites/sprite-0f9283b3.svg");
   }
 
+  .no-svg .icon {
+    background-image: url("/assets/images/sprites/sprite-0f9283b3.png");
+  }
+
   .icon--clear-view-escapes {
     width: 142.4px;
     height: 59.53px;
